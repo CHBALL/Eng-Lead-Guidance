@@ -108,7 +108,7 @@ There are often times when an Engineering Manager fills in some or all of the ro
 
 [The Well-Rounded Technical Lead (A Model for Technical Leadership)](http://www.engineeringandcareering.co.uk/2013/05/the-well-rounded-technical-lead-model.html)
 
-[The Webflow Tech Lead Guide](https://github.com/webflow/leadership/blob/master/tech_lead.md)
+[Lessons from a Tech Lead](https://dev.to/thawkin3/lessons-from-a-tech-lead-roles-responsibilities-and-words-of-advice-ldj)
 
 [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
 
